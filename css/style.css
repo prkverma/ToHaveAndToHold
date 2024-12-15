@@ -1058,6 +1058,7 @@ textarea.form-control:not(:placeholder-shown) + label {
     .slide-loader{
         bottom: 20px;
         right: 25px;
+        margin-bottom: 30px;
     }
 
     .share{
