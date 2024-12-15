@@ -1062,6 +1062,7 @@ textarea.form-control:not(:placeholder-shown) + label {
 
     .share{
         left: 5px;
+        bottom: 100px;
     }
 
     .share a ion-icon {
