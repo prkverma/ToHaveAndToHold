@@ -1050,6 +1050,10 @@ textarea.form-control:not(:placeholder-shown) + label {
         width: 150px;
         height: 150px;
     }
+       
+    .lead svg{
+        margin-bottom: 20px;
+    }
 
     .move-down ion-icon{
         font-size: 2em;
